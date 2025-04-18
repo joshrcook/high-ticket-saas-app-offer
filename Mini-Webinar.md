@@ -1,304 +1,305 @@
-# SLIDE 1: OFFER HEADLINE
+[OFFER]
 
-## Let me ask you a question...
+What if I could help you launch your SaaS app idea from scratch—with a real, working MVP—in just 10 days…
 
-If I was able to help you build and launch your SaaS app from scratch, in the next 10 days, without hiring a dev team or giving up equity..
+Without hiring a dev team…
 
-Would you take that offer?
+Without giving up equity…
 
-[Speaker notes]
-Let me ask you a question. If I offered to help you launch your SaaS app from scratch, in the next 10 days, without hiring a dev team or giving up equity... would you take me up on that offer? Stay with me for the next few minutes, and I'll show you exactly how we can make that happen.
+Without wasting another second stuck in technical limbo?
 
----
+Would you take me up on that offer?
 
-# SLIDE 2: AUTHORITY
+[WHO I AM]
 
-## Joshua Cook
+Who am I?  
 
-### Fractional CTO for Startups
+My name's Josh Cook. I’m a fractional CTO and product strategist.
 
-#### Helped build products for:
+I’ve spent the past 15+ years building digital products for everyone from small, scrappy startups to major brands like Apple and State Farm.
 
--   Apple
--   State Farm
--   Dozens of successful startups
+I know what it takes to go from idea to launch—fast, and I've also seen what hasn't worked.
 
-[Speaker notes]
-I'm Joshua Cook, and I've spent the last 15+ years helping both scrappy startups and giants like Apple and State Farm build and ship real products, fast. I've seen what works, what doesn't, and most importantly—I've discovered a way to dramatically accelerate the app development process for non-technical founders using the latest AI technologies and my technical expertise.
+But today, I’m not here to talk about big brands.
 
----
+I’m here to talk to you.
 
-# SLIDE 3: BIG BENEFIT HEADLINE
+The founder.
 
-## How we'll help you launch your revenue-ready MVP in 10 days using our Rapid SaaS Framework
+The visionary.
 
-[Speaker notes]
-What I'm going to share with you today is how we'll help you launch your revenue-ready MVP in just 10 days using our proven Rapid SaaS Framework. This isn't about cutting corners—it's about leveraging cutting-edge AI tools and my experience as a fractional CTO to get you to market faster than your competitors could ever imagine.
+The entrepreneur with an amazing idea who’s tired of watching competitors sprint past while you’re still tangled up in tech chaos.
 
----
+[HEADLINE / SOLUTION]
 
-# SLIDE 4: GET THEM TO AGREE
+Because what I’m about to share with you could be the exact shortcut you need to get your product launched, live, and in the hands of paying users—in record time.
 
-## You probably already know...
+Not six months. Not three. Ten days.
 
--   Time to market is everything
--   Technical execution is a top reason startups fail
--   Traditional development takes 6-12 months
+Real product. Real users. Real momentum.
 
-[Speaker notes]
-You probably already know that in today's market, time to market is absolutely everything. Every day your idea sits unrealized is another day someone might beat you to launch. You likely also know that technical execution problems are one of the top three reasons startups fail—and that traditional development cycles can take anywhere from 6 to 12 months. That's practically a lifetime in today's fast-moving market. I'm betting you're nodding your head right now because you've either experienced this pain or you're desperately trying to avoid it.
+[GET THEM TO AGREE]
 
----
+Now you probably already know this:
 
-# SLIDE 5: THE CHALLENGE
+The faster you can get feedback, the faster you can find product-market fit.
 
-## But the problem is...
+According to CB Insights, over 1/3 of startups fail because they run out of cash before they find product-market fit.
 
--   Non-technical founders get stuck in "tech hell"
--   Vetting freelancers wastes precious time
--   Most can't afford a full dev team
--   AI tools alone aren't enough
+It's also well known that early-stage startups who spend more time validating their market and offer are more likely to avoid cash flow issues and achieve product-market fit.
 
-[Speaker notes]
-But the problem is, if you're a non-technical founder, you're likely stuck in what I call "tech hell." You have this brilliant idea, but you don't know how to build it yourself. So you waste weeks or even months trying to vet freelancers or platforms that might help. Maybe you've tried to use some AI tools on your own but found they still require technical knowledge to implement effectively. And if you're like most founders, you simply don't have the capital to hire a full development team, especially before you've validated your idea with paying customers. It's a catch-22 that keeps many great ideas from ever seeing the light of day.
+And we all know that getting more feedback earlier is the fastest way to validating your idea and finding that coveted Product-Market Fit.
 
----
+And what's the fastest way to get feedback?
 
-# SLIDE 6: SOLUTION BRIEFLY EXPLAINED
+Launching a real MVP that real customers can use and pay for.
 
-## The Rapid SaaS Framework:
+[THE CHALLENGE]
 
-### Your shortcut to a working MVP
+But here’s the problem.
 
-[Speaker notes]
-But luckily, I've developed what I call the Rapid SaaS Framework, which serves as your shortcut to a working MVP. It combines my decade of technical expertise with the latest AI development tools in a way that specifically works for non-technical founders. This isn't about building a fancy prototype that falls apart when real users touch it. This is about creating a functional, revenue-ready product that your first customers can actually use and pay for—in just 10 days.
+You’re not technical.
 
----
+You've thought about doing it the conventional way — Bringing on a technical cofounder or CTO to help build your product.
 
-# SLIDE 7: BENEFITS
+But that's a big risk.
 
-## Best method we've discovered to:
+You're giving up massive equity, and you're taking on a partner who you may not know, trust, or align with.
 
--   Get to market 20x faster
--   Save $50k-$100k on initial development
--   Start collecting customer feedback immediately
--   Begin generating revenue in days, not months
+You're committed to your idea, but are they as committed as you, or simply riding your coattails looking to do as little as possible for a quick exit and a big payday?
 
-[Speaker notes]
-This framework is the best method we've discovered to help founders like you get to market up to 20 times faster than traditional development methods. You'll save anywhere from $50,000 to $100,000 on initial development costs, which means you can invest that money in marketing and acquiring your first users instead. Most importantly, you'll start collecting real customer feedback immediately and can begin generating revenue in days, not months. Imagine how that changes the trajectory of your business when you can iterate based on actual user behavior instead of assumptions.
+Or you may have flirted with AI tools or no-code builders — but hit a wall when things got even slightly complex.
 
----
+You’ve probably tried to vet freelancers or no-code agencies that made big promises… and then ghosted or underdelivered.
 
-# SLIDE 8: OPEN LOOP
+You could try to build a team… but between ballooning costs, never-ending timelines, and equity-hungry startup studios, it feels like the system is rigged against you.
 
-## I'll reveal all the details in a minute...
+And meanwhile?
 
-[Speaker notes]
-And I'm going to reveal all the details to you in just a minute, including exactly how we structure this process to deliver results so quickly. But first, I need to explain WHY this approach works so well when traditional methods continue to fail so many founders.
+Your idea is just sitting there. Unlaunched. Unproven.
 
----
+And with every passing week, someone else might be launching your idea before you even get started.
 
-# SLIDE 9: REASON WHY
+[SOLUTION BRIEFLY EXPLAINED]
 
-## Why traditional development fails:
+But it doesn’t have to be like that.
 
-### The Founder's Technical Trap
+Because I’ve created a lean, lightning-fast, AI-enhanced process to help non-technical founders like you turn ideas into fully functional MVPs—in just 10 days.
 
-[Speaker notes]
-The reason traditional development approaches fail so many founders is what I call the "Founder's Technical Trap." See, the old model assumes you either need to become technical yourself, hire expensive developers, or give away equity to a technical co-founder. All of these approaches have serious drawbacks. Learning to code takes years. Hiring developers costs a fortune and requires technical management skills you don't have. And finding a technical co-founder who shares your vision can take months or years—if you find one at all. The trap keeps you stuck, while your competitors move forward.
+Not a pitch deck.
 
----
+Not a prototype.
 
-# SLIDE 10: STEP 1
+Not a fake “coming soon” landing page.
 
-## STEP 1: Strategic Scoping Session
+A real, working, usable app that real customers can interact with.
 
-### 1-day intensive to map your MVP
+This isn’t a course. It’s not a template.
 
-[Speaker notes]
-So here's how our process works. Step 1 is what we call the Strategic Scoping Session. This is a one-day intensive where I work directly with you to map out exactly what your MVP needs to include. Notice I said "needs"—not "wants." This is crucial because most founders try to build too much too soon. During this session, we identify the absolute core features that will allow you to validate your idea with real users. We map out user flows, data structures, and integration points, creating a lean blueprint that focuses exclusively on what will get you to revenue fastest.
+It’s done with you, and done for you.
 
----
+As your fractional CTO, I personally guide the strategy, own the build, and ensure you get a product that doesn’t just work—but has a clear path to revenue.
 
-# SLIDE 11: RESULTS OF STEP 1
+[BENEFITS OF THE SOLUTION]
 
-## Results of this step:
+This process is the best method I’ve ever seen for:
 
--   Clear MVP blueprint
--   Feature prioritization
--   Technical roadmap
--   No bloat or scope creep
+Launching fast without wasting months on wrong tech choices.
 
-[Speaker notes]
-The results of this step are powerful. You'll have a crystal-clear MVP blueprint that focuses only on what matters. We'll prioritize features based on what drives value for users, not what's technically interesting. You'll have a technical roadmap that extends beyond the MVP, so you know exactly how to evolve the product as you grow. And most importantly, we eliminate bloat and scope creep from day one—which is typically what causes development projects to drag on for months longer than they should.
+Getting to customer #1 without giving up equity.
 
----
+Using AI tools to build smarter, faster—and save you tens of thousands in development costs.
 
-# SLIDE 12: I'LL DO THIS FOR YOU
+[OPEN LOOP]
 
-## I'll do this FOR YOU
+And I’m going to walk you through exactly how it works in just a minute…
 
-### Save weeks of planning & avoid costly mistakes
+But first, let me tell you why this approach is so different—and why it works so well for founders like you.
 
-[Speaker notes]
-The best part? I'll do all of this FOR YOU. You don't need to become a product manager overnight or learn technical jargon. I've done this dozens of times and know exactly what questions to ask and what pitfalls to avoid. You'll save weeks of planning time and avoid the costly mistakes that most first-time founders make when defining their MVP. This alone can save you thousands of dollars and months of development time.
+[REASON WHY]
 
----
+The old way of building startups is broken.
 
-# SLIDE 13: TESTIMONIAL
+Founders used to raise $250K, burn through it on bloated dev teams, and still end up with an unusable product six months later.
 
-## "Joshua helped us cut our development timeline from 6 months to just 2 weeks. We launched with paying customers immediately."
+I’ve seen it firsthand.
 
-### Sarah K., FinTech Founder
+I’ve seen smart, well-funded founders spend over a million dollars before getting a single paying customer—just to realize they built the wrong thing.
 
-[Speaker notes]
-Don't just take my word for it. Sarah, a FinTech founder I worked with last year, was quoted a 6-month timeline and a $150,000 budget by a development agency. After going through our process, we launched her core product in just two weeks, and she signed up her first three paying customers within days of launch. That early validation allowed her to raise a seed round at a much higher valuation than she initially expected.
+But with today’s AI-powered stack and 10+ years of battle-tested product expertise?
 
----
+You can skip all that.
 
-# SLIDE 14: STEP 2
+You don’t need 6 months.
 
-## STEP 2: Rapid Build Phase
+You don’t need a dev team.
 
-### Days 2-9: Building your functional MVP
+You don’t need a cofounder.
 
-[Speaker notes]
-Once we have our blueprint, we move to Step 2: the Rapid Build Phase. This is where the magic happens. From days 2 through 9, I'll work with my team to build your functional MVP using a combination of AI-powered development tools and our custom frameworks. We focus on creating an architecture that's both fast to build AND scalable for future growth. Unlike traditional development where you'd wait weeks to see progress, you'll get daily updates and actually see your product taking shape hour by hour.
+What you do need is a fast path to a real MVP—and a partner who knows how to get you there.
 
----
+[STEP 1]
 
-# SLIDE 15: RESULTS OF STEP 2
+Here’s what we do first:
 
-## Results of this step:
+We nail your MVP strategy.
 
--   Functional application
--   User authentication
--   Core features working
--   Ready for real users
+We map your product idea into a lean, launchable version focused on outcomes, not features.
 
-[Speaker notes]
-The results of this step are game-changing. You'll have a fully functional application with user authentication, your core features working as designed, and an interface that's ready for real users. This isn't a mockup or a prototype—it's a real product that users can sign up for and start using immediately. And because we've built it using modern cloud infrastructure, it's ready to scale as your user base grows.
+I help you define what to build—and more importantly, what not to build.
 
----
+Results of this?
 
-# SLIDE 16: WANT US TO DO THIS FOR YOU?
+→ Clarity.
 
-## Want us to do ALL of this for you?
+→ Speed.
 
-### Then fill out the application on this page.
+→ You’re no longer guessing what to build—you’re locked in on the shortest path to revenue.
 
-[Speaker notes]
-If you want us to do ALL of this for you—to handle the technical complexities while you focus on your business strategy—then fill out the application on this page right now. We're looking for founders who are serious about launching quickly and have validated their idea at least at a conceptual level. You need to be ready to make decisions quickly and be available during the 10-day process to provide feedback. If that sounds like you, we should talk.
+[TESTIMONIAL / RESULT]
 
----
+I worked with a founder just like you last month—non-technical, great idea, big audience—but totally stuck.
 
-# SLIDE 17: STEP 3
+In 48 hours, we defined the MVP and kicked off development.
 
-## STEP 3: Launch & Optimization
+10 days later? Live product.
 
-### Day 10: Go live and acquire first users
+Her first paying customer came that week.
 
-[Speaker notes]
-The final step in our process is Launch and Optimization. On day 10, we'll go live with your product and implement the systems you need to acquire your first users. This includes setting up analytics to track user behavior, implementing feedback mechanisms so you can learn directly from customers, and configuring the tools you'll need to manage and support your early adopters. Many founders spend months building and then realize they have no plan for getting users. We bake this into the process from day one.
+[I'LL DO THIS FOR YOU]
 
----
+And when you work with me—I do this step for you.
 
-# SLIDE 18: RESULTS OF STEP 3
+You don’t have to figure out the tech stack, or write specs, or manage freelancers.
 
-## Results of this step:
+You just tell me the vision. I map the path.
 
--   Live product in users' hands
--   Data collection systems active
--   Ready to collect payments
--   Clear path to scale
+[STEP 2]
 
-[Speaker notes]
-The results of this final step put you miles ahead of most founders. You'll have a live product in users' hands just 10 days after we begin. Your data collection systems will be active so you can make informed decisions about what to build next. You'll be ready to collect payments from day one, turning your idea into a revenue-generating business immediately. And you'll have a clear path to scale both technically and in terms of your user acquisition strategy.
+Next, we build.
 
----
+But not like you’ve seen before.
 
-# SLIDE 19: CASE STUDY
+No bloated team. No vague timelines.
 
-## Case Study: TaskFlow
+I personally lead the build using AI tooling, my dev network, and lean startup principles.
 
--   Idea to MVP: 8 days
--   First paying user: Day 11
--   Break-even on our fee: Month 1
--   Now at $12K MRR
+Everything we do is designed to ship fast and iterate smarter.
 
-[Speaker notes]
-Let me share a quick case study. TaskFlow came to us with just an idea for a project management tool with some unique AI capabilities. We took them from idea to MVP in just 8 days. They acquired their first paying customer on day 11, and by the end of their first month, they'd made enough revenue to cover our entire fee. Today, just six months later, they're at $12,000 in monthly recurring revenue and growing steadily. This is the power of getting to market quickly and iterating based on real user feedback.
+Results of this?
 
----
+→ Your product is built with best practices baked in.
 
-# SLIDE 20: HOW WE'LL HELP YOU RECAP
+→ It’s something you can demo to investors, sell to customers, and build on going forward.
 
-## How we'll help you:
+[WANT US TO DO ALL THIS FOR YOU?]
 
--   Map your MVP in one day
--   Build a functional product in one week
--   Launch with real users by day 10
+So if you’re thinking:
 
-[Speaker notes]
-So to recap, here's how we'll help you launch your SaaS app. First, we'll map out your MVP in a single day, focusing only on what matters for validation. Then, we'll build your functional product in just one week using our proven development framework. Finally, we'll help you launch with real users by day 10, setting you up to start generating revenue immediately.
+“Wow, this is exactly what I’ve been trying to figure out…”
 
----
+Then yeah—we should talk.
 
-# SLIDE 21: BONUS OFFERS
+Scroll down and apply right now.
 
-## Plus, we'll even:
+Let’s see if we’re a good fit.
 
--   Provide 30 days of technical support
--   Set up your user analytics dashboards
--   Build a product roadmap for scaling
+[TESTIMONIAL / RESULT]
 
-[Speaker notes]
-Plus, we'll even provide 30 days of technical support after launch, so you're not left on your own once the product is live. We'll set up your user analytics dashboards so you can track behavior and make data-driven decisions. And we'll build you a product roadmap for scaling, outlining the features and improvements that make sense to add as you grow your user base and revenue.
+Another founder I worked with came in burnt out from a $30K failed dev experiment.
 
----
+Ten days with me?
 
-# SLIDE 22: RESTATE OFFER
+We launched her MVP.
 
-## So, if you want us to:
+She showed it to her community—and 5 customers signed up the first weekend.
 
-### Build your SaaS app in 10 days without hiring a dev team...
+She told me it felt like a “miracle after six months of misery.”
 
-[Speaker notes]
-So, if you want us to build your SaaS app in just 10 days without hiring a dev team, without giving up equity, and without wasting months stuck in technical purgatory... then this is your opportunity. As your fractional CTO, I'll personally guide you through the entire process, leveraging my decade of experience and our proprietary development framework to get you to market faster than you ever thought possible.
+[STEP 3]
 
----
+Finally—we optimize for launch and traction.
 
-# SLIDE 23: CALL TO ACTION
+I’ll help you:
 
-## Fill out the application & schedule a call
+Set up analytics and user feedback tools
 
-### When you work with us, we will:
+Get clarity on what to test next
 
--   Be your technical partner
--   Build your MVP in 10 days
--   Get you to revenue faster
+Position your MVP so users understand it, and want to try it
 
-[Speaker notes]
-Fill out the application on this page right now and schedule a call to speak with our team. When you work with us, we will be your technical partner, handling all the complexities that would otherwise slow you down. We'll build your MVP in just 10 days, giving you a massive head start on competitors. And most importantly, we'll get you to revenue faster, allowing you to grow your business based on real market feedback instead of assumptions.
+Results of this?
 
----
+→ You’re no longer in theory-land. You’re in the game.
 
-# SLIDE 24: URGENCY
+→ You’re getting real feedback, real usage, and real learning that actually moves the business forward.
 
-## Limited Spots Available
+[RESULTS / CASE STUDIES]
 
-### Only taking 3 projects at a time
+I’ve worked with startups who went from idea to funded in 30 days…
 
-[Speaker notes]
-I need to be transparent with you—we have limited spots available for this service. I only take on three projects at a time to ensure I can give each the attention it deserves. If you're seeing this video right now, that means there are still spots open, but they tend to fill quickly. The founders who take action now are the ones who will be launching their products while others are still trying to figure out their development strategy.
+Founders who were stuck for months who now have real, paying customers.
 
----
+People who were this close to giving up—who now have something real.
 
-# SLIDE 25: FINAL CALL TO ACTION
+[HOW WE’LL HELP YOU - RECAP]
 
-## Fill out the application now
+Here’s what we’ll do together:
 
-### Let's build your SaaS app in 10 days
+Step 1: Nail your MVP plan so you build the right thing.
 
-[Speaker notes]
-Fill out the application on this page now. Let's get on a call and discuss your idea. If we're a good fit, we can start building your SaaS app within days. Just imagine—in less than two weeks from now, you could be showing your product to real users and collecting your first payments. The opportunity is right in front of you—all you need to do is take that first step. I look forward to helping you bring your vision to life.
+Step 2: Build a working, lean, beautiful MVP in 10 days.
+
+Step 3: Launch fast, get feedback, and prep for traction.
+
+[PLUS, WE’LL EVEN…]
+
+We’ll even help you create demo videos, pitch decks, and investor-ready assets if that’s part of your plan.
+
+Because this isn’t just about building an app—it’s about building momentum.
+
+[SO, IF YOU WANT US TO…]
+
+So if you want us to help you turn your idea into a working MVP…
+
+To skip months of confusion, delays, and technical headaches…
+
+To finally launch something real that customers can use—and pay for…
+
+[THEN FILL OUT THE APPLICATION…]
+
+Then fill out the application on this page and schedule a quick discovery call with my team.
+
+We’ll walk through your idea, map out a timeline, and see if it’s a good fit.
+
+[WHEN YOU WORK WITH US, WE WILL PERSONALLY…]
+
+When you work with us, we will personally:
+
+Define your MVP based on product strategy, not guesswork.
+
+Build a functional, scalable product using AI-enhanced workflows and expert-level code.
+
+Launch with you, support you, and help you get to customer #1 as fast as humanly possible.
+
+[IF ANY OF THIS SOUNDS AWESOME…]
+
+If any of that sounds awesome to you—don’t wait.
+
+Apply right now and let’s talk.
+
+I only work with three founders at a time.
+
+If you’re seeing this video, it means there’s still a spot left.
+
+But they fill quickly—and I don’t hold spots for long.
+
+[FILL OUT THE APPLICATION NOW]
+
+So don’t overthink it.
+
+Fill out the short application on this page.
+
+Let’s get your app live—not someday… but 10 days from now.
+
+I’m ready when you are.
