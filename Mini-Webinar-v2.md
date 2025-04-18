@@ -80,6 +80,7 @@ And in many ways, they relate to a game of golf. These are the keys:
 1. Select the right club
 2. Prep your swing
 3. Get the right coach
+    - even amatuer golfers know this.  That's why they hire caddies to help them, because a caddy knows the course better than they do.
 
 If our goal is to get our ball in the hole in as little time as possible, these are the steps we have to follow.
 
